@@ -62,14 +62,6 @@ As métricas de avaliação utilizadas foram:
 
 ---
 
-## Como Executar
-
-1. Abra o [notebook no Google Colab](https://colab.research.google.com/)
-2. Copie e cole o código-fonte
-3. Execute célula por célula para visualizar os resultados e gráficos
-
----
-
 ## Autor
 
 - Nome: Pedro Henrique Resende Alves
